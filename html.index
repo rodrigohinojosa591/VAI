@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VAI</title>
+  <style>
+    body {
+      background: #0b1020;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px 15px;
+    }
+    h1 { color: #38bdf8; font-size: 60px; }
+    a {
+      display: block;
+      background: #172b48;
+      color: white;
+      padding: 20px;
+      margin: 15px auto;
+      max-width: 350px;
+      border-radius: 12px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>VAI</h1>
+  <p>Transporte urbano - Arica, Chile</p>
+  <a href="pasajero.html">VAI Pasajero</a>
+  <a href="conductor.html">VAI Conductor</a>
+  <a href="admin.html">VAI Administración</a>
+</body>
+</html>
